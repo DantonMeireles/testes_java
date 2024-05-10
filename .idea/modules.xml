@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anatomia de Classes/Anatomia de Classes.iml" filepath="$PROJECT_DIR$/Anatomia de Classes/Anatomia de Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aprenda a sintaxe java.iml" filepath="$PROJECT_DIR$/.idea/Aprenda a sintaxe java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos_e_variaveis_jv/tipos_e_variaveis_jv.iml" filepath="$PROJECT_DIR$/tipos_e_variaveis_jv/tipos_e_variaveis_jv.iml" />
+    </modules>
+  </component>
+</project>
